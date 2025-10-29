@@ -1,0 +1,2 @@
+SUCCESS  # <- TORPEDO
+FAIL  # <- TORPEDO
